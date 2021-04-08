@@ -19,7 +19,6 @@ class App extends Component {
     },
     newBookModal: false,
     editBookModal: false,
-
   }
 
   componentWillMount() {
